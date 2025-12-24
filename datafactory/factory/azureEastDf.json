@@ -1,0 +1,9 @@
+{
+	"name": "azureEastDf",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "08eaafe9-40a4-401c-a6e6-7a25149f7f03",
+		"tenantId": "5f1f885b-3a05-432c-92fa-0fedf538c37c"
+	}
+}
