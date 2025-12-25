@@ -6,8 +6,8 @@
 		"type": "FileServer",
 		"typeProperties": {
 			"host": "C:\\hima",
-			"userId": "himasaikuruba",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI2ODI4NjZiOC04ZTJiLTRhYWMtOTE1OS0zYWRiYjkwOWY4ODMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"userId": "himas",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIwYmZkMmVhNS05NDlmLTRjOGEtODEwYS04YmE2OTdlNTk2NGIiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "onpremtoazureintegrationruntime",
