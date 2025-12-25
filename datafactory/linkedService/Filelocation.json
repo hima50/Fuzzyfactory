@@ -7,7 +7,7 @@
 		"typeProperties": {
 			"host": "C:\\hima\\adf\\Maven+Fuzzy+Factory",
 			"userId": "hima",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0ODg3MjM5Ni0wMGUzLTRkMzUtODY3MS00ZDJhMzEyYmFjMGIiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJhZTYzMTVjZC1jOWMyLTRmYzktYjEwYS1kOTJjZGJkOTU0MmUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "onpremtoazureintegrationruntime",
