@@ -5,9 +5,9 @@
 		"annotations": [],
 		"type": "FileServer",
 		"typeProperties": {
-			"host": "C:/backup/MavenFuzzyFactory/maven_fuzzy_factory_data_dictionary.csv",
-			"userId": ".\\Kuruba Hima Sai",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0OGQ4YWY0ZC01YmQ3LTRmMWUtODFkNS0yYmM4YzlhMTg3MGEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"host": "C:\\backup\\MavenFuzzyFactory",
+			"userId": ".",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJlYzMyNDBlYS0zODEwLTQxMDEtODYxMy01ODg0NjhmZjc2YTgiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "onpremtoazureintegrationruntime",
