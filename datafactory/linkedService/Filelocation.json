@@ -6,8 +6,8 @@
 		"type": "FileServer",
 		"typeProperties": {
 			"host": "C:\\hima\\adf\\Maven+Fuzzy+Factory",
-			"userId": "himas",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIwMGYxNDBiMi0yNjA4LTQ5MmUtYThhYi1jNjFlZWM0YjY2NGMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"userId": "hima",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0ODg3MjM5Ni0wMGUzLTRkMzUtODY3MS00ZDJhMzEyYmFjMGIiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "onpremtoazureintegrationruntime",
