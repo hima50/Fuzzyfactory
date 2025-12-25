@@ -5,9 +5,9 @@
 		"annotations": [],
 		"type": "FileServer",
 		"typeProperties": {
-			"host": "C:\\Users\\himas\\OneDrive\\downloads\\Maven+Fuzzy+Factory",
+			"host": "C:\\hima",
 			"userId": "himasaikuruba",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJiYThlMjU1Yy0wYzFmLTQzNjYtYmQ0NS00N2VjZGU4MTZmZDUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI2ODI4NjZiOC04ZTJiLTRhYWMtOTE1OS0zYWRiYjkwOWY4ODMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "onpremtoazureintegrationruntime",
