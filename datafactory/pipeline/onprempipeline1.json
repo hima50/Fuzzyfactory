@@ -26,11 +26,22 @@
 							"type": "DelimitedTextReadSettings"
 						}
 					},
+					"sink": {
+						"type": "DelimitedTextSink",
+						"storeSettings": {
+							"type": "AzureBlobStorageWriteSettings"
+						},
+						"formatSettings": {
+							"type": "DelimitedTextWriteSettings",
+							"quoteAllText": true,
+							"fileExtension": ".txt"
+						}
+					},
 					"enableStaging": false
 				},
-				"inputs": [
+				"outputs": [
 					{
-						"referenceName": "maven_fuzzy_factory_data_dictionary",
+						"referenceName": "DelimitedText1",
 						"type": "DatasetReference"
 					}
 				]
