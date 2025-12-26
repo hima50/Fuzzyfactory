@@ -5,9 +5,9 @@
 		"annotations": [],
 		"type": "FileServer",
 		"typeProperties": {
-			"host": "\\\\hima_sai\\files",
-			"userId": "hima_sai\\himas",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI2M2Q1MGE2YS01NjJmLTQ4ZDktOWNjYy0xNGY5MDA1MTY3YTEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"host": "hima_sai",
+			"userId": ".\\himas",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI4YzlkNTYyYi1lNmI0LTQ0NjMtODFmMy1lZmE5ZDRlMGJkNDMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "onpremtoazureintegrationruntime",
