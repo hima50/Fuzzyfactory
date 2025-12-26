@@ -11,7 +11,7 @@
 			"location": {
 				"type": "FileServerLocation",
 				"fileName": "maven_fuzzy_factory_data_dictionary.csv",
-				"folderPath": "MavenFuzzyFactory"
+				"folderPath": "files/MavenFuzzyFactory"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
