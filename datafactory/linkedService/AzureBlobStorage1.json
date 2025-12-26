@@ -6,7 +6,11 @@
 		"type": "AzureBlobStorage",
 		"typeProperties": {
 			"connectionString": "DefaultEndpointsProtocol=https;AccountName=azureeaststt;EndpointSuffix=core.windows.net;",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEUwQURENUVBLTM5MkEtNDUxOS05RDc1LTg1NTRCQUNEQ0Y0Rl8zMjczZDQ3Mi02Yjc1LTRhMjYtODdmZi1lNTk2NmZhM2U2MTQiDQp9"
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI3ZTQ1YjEwOC1hYzA4LTQzOGQtYTY1Ny00MzZmYzhkOGZlMTYiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "onpremtoazureintegrationruntime",
+			"type": "IntegrationRuntimeReference"
 		}
 	}
 }
